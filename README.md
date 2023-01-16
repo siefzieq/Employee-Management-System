@@ -1,4 +1,4 @@
-# Simple Employee Management System
+# Simple Employee Management System 👷🏻‍♂️
 
 - This system is using Linked List Queue implementations
 - This system contains basic operation (Create, Update, Delete, Add)
